@@ -1,5 +1,7 @@
 # yoast-sitemap-fetcher
 
+Yoast Sitemap Fetcher Multi and Single
+
 ### Installation
 
 **Step 1:** Clone this repository.
